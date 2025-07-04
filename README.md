@@ -20,6 +20,11 @@ This repository implements a **String Calculator** using **Test-Driven Developme
 
 ---
 
+### ✅ Test Output Screenshot
+
+![Test Output](./assets/image.png)
+
+
 ## 🚀 Getting Started
 
 ### Clone the repository, install dependencies, and run tests
